@@ -4,3 +4,6 @@
 # COMMAND ----------
 
 display(spark.range(10))
+
+# COMMAND ----------
+
